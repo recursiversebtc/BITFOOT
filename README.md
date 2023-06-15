@@ -6,6 +6,9 @@ Mint is 100% free. Find the BITFOOT you want in the SVG folder and inscribe the 
 <h2>How to check if a Recursive BITFOOT is already inscribed?</h2>
 <p><i>First = First. To check of you had the first one check the <a href="https://bitpunks.io/Explorer/Inscriptions">BitPunks explorer</a> (bottom left).</i></p>
 
+<h2>How do I inscribe / mint?</h2>
+<p>visit <a href="https://unisat.io/inscribe">Unisat</a> or any inscription service, and inscribe your BITFOOT SVGs.</p>
+
 <h2>How do these ‘recursive inscriptions’ work?</h2>
 <p>All BITFOOT traits have been inscribed in ordinals (view them <a href="https://ordiscan.com/address/bc1qy2495ajaj3exycxfwz4fhug5whfzs5np4xdvr4" target="_blank">here</a>).<br> 
 
